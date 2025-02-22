@@ -1,9 +1,8 @@
 # MYSQL-Powerbi-project
-A Power BI dashboard for a coffee shop, providing insights into sales, customer trends, and inventory management. Integrated with MySQL for real-time data analysis and reporting.
+A Power BI dashboard for a coffee shop, offering insights into sales, customer behavior, and inventory management. Connected to MySQL for real-time data analysis and dynamic reporting.
 
 # Objective:
-To develop a Power BI dashboard for a coffee shop, leveraging MySQL for data storage and management. The dashboard provides actionable insights into sales performance, customer preferences, and inventory levels, helping the business make data-driven decisions.
-
+Developed a Power BI dashboard for a coffee shop, utilizing MySQL for data storage and management. The dashboard delivers actionable insights on sales performance, customer preferences, and inventory levels, enabling data-driven decision-making.
 ## dataset
 
 https://github.com/Tanu20-Yadav/MYSQL-Powerbi-project/blob/main/Coffee%20Shop%20Sales.xlsx
