@@ -5,7 +5,7 @@ A Power BI dashboard for a coffee shop, offering insights into sales, customer b
 Developed a Power BI dashboard for a coffee shop, utilizing MySQL for data storage and management. The dashboard delivers actionable insights on sales performance, customer preferences, and inventory levels, enabling data-driven decision-making.
 ## dataset
 
-https://github.com/Tanu20-Yadav/MYSQL-Powerbi-project/blob/main/Coffee%20Shop%20Sales.xlsx
+https://github.com/Vaibhav-0501/coffee-shop-dashboard/blob/main/Coffee%20Shop%20Sales.csv
 
 # Problem Statement
 
